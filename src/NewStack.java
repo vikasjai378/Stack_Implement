@@ -1,4 +1,3 @@
-import java.sql.DatabaseMetaData;
 
 public class NewStack {
 
